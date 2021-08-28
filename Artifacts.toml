@@ -1,0 +1,236 @@
+[[cryptopp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ff7fe7fbb772e3b486c59317732a936fbf5cfe8"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "fc160f91a677fd338500dacd98bebdd5821af7bfe6b1293313520aec0b68a59f"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[cryptopp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a71627048d2d97304b5587ec066db262686d7352"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "bd9adfe87a04caeba35fdf1ef562ca4c3a95ca25b82338cd7826c561dc70f7f7"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[cryptopp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ca3d71a7287434dc1b8df93f688f4a121b58a6dd"
+libc = "musl"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "7d33dc202856790cc992cb1586700554f41fba67a701ffa18af5b0a476b9e84d"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.aarch64-linux-musl-cxx03.tar.gz"
+[[cryptopp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a46801c9dd38a7c5e8354a7de60b7b7dbeff75ce"
+libc = "musl"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "2051af185a1d8b210cb0651a6612a6c222eeab9f77400107569689053ace88dc"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.aarch64-linux-musl-cxx11.tar.gz"
+[[cryptopp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9215e7f8bb74c79387a8c25b5ef87c2de3a442a4"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "48cb182744f580b89ea70f68ccce1ac1e3842d045aba1344716d9c05a772e43e"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[cryptopp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c16b1c72822a9e43194f0eab5df7f7bd49302131"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "da693d1f8cc887e067b15dc01b9153bfffca42252b0a142b2d9ca7afe375015a"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[cryptopp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b5e487cfa7d5a92ff2602e538b3beba1095a196c"
+libc = "musl"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "3bf18a022278cef5476521ccfe52c5525ef57e2f9e1ae423982e5d0701f1ffdf"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[cryptopp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b269d3fa041b06b252a08bc072876d731c788fdf"
+libc = "musl"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "541c141e87608b20b5209b76498e483459b46bb3a0bf1089715aeea79a1ce973"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[cryptopp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a562597a38c816c8e2bade09b8b7bb9e7f1748d3"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "2b16b5778ef7bb3d00bb00f37e76fa15480bfa8c4f2e789d0fa36316bd1dc9bd"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.i686-linux-gnu-cxx03.tar.gz"
+[[cryptopp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68ab3894171e8f38999c6f3cc8dd0663192148e4"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "b3a88c4cced3230457220f2e5551cc4e1852ec4427a189de6d38fcbff82b5325"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.i686-linux-gnu-cxx11.tar.gz"
+[[cryptopp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9114287c84940489c9336427dbed08dc410ae21"
+libc = "musl"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "d2dbf7377ee2ae8a3021e5af9e62159bf0f1b616cee6be43c244e3dac981a944"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.i686-linux-musl-cxx03.tar.gz"
+[[cryptopp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5342abd5e9be4947d0ba05cd4777938126585bc0"
+libc = "musl"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "121d9a177f62758e560cbdb091d4e866f66d60a3d46e4fe7051d9f2b4b99067a"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.i686-linux-musl-cxx11.tar.gz"
+[[cryptopp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "56462a384d27f36fefedf8aef933859954546d55"
+os = "windows"
+
+    [[cryptopp.download]]
+    sha256 = "21f1cfad3941866f5b5dd51bf4d19962873bbf857524c41ccec3c27a2d28daf2"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.i686-w64-mingw32-cxx03.tar.gz"
+[[cryptopp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97b2de690f17bbe674a3f6579cb02966b309981c"
+os = "windows"
+
+    [[cryptopp.download]]
+    sha256 = "8ace672ef8a7fe970c0caabb691efba1586443d908e225fd0d75bef106eb2651"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.i686-w64-mingw32-cxx11.tar.gz"
+[[cryptopp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c3284780376dc51042b432ae2f155a0660470e60"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "1df1baa94986efd2831e0f4965c149a260074a305f070adc602e898330b6fb22"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[cryptopp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dd44dea8b20e72d41911143ae965d233e1c88858"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "9ea6aacb243aae6b78762fa2099e008f8638f96c303927f781ac85b39c6793e4"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[cryptopp]]
+arch = "x86_64"
+git-tree-sha1 = "2080cc949f741a9867fc1dbc019ba6834b472c7f"
+os = "macos"
+
+    [[cryptopp.download]]
+    sha256 = "d8b896ec3ea2017f7c79686f8bb6a68f979fb0321468c980dceed739ee5d6785"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.x86_64-apple-darwin.tar.gz"
+[[cryptopp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6cade1a5b7963d42d573a169b08c0f19abb1033"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "7710c887c3ff4ff74185cdbd472fa2e5658216c588ee67c311afafa07aa21b88"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[cryptopp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3805ea9fe5970373ad3ed28ba8fa2403f7d8284a"
+libc = "glibc"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "6b75cc6b2670793a67949b23fec4f45b9b8013d36e78f3e6d81d2d9fd5426cff"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[cryptopp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe1285dfeb5a74e4ecd4ef3f1558c65b7dbdba9c"
+libc = "musl"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "4cfd3eb8893e9349d26b127fb4add7be0da6a4d11c0a0f82fca7252013f50106"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.x86_64-linux-musl-cxx03.tar.gz"
+[[cryptopp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "789ff558ed0ac2da0b7a54f603c1f1d59dfe2b0a"
+libc = "musl"
+os = "linux"
+
+    [[cryptopp.download]]
+    sha256 = "7d200871c32de8cd5492d35302f36ecfdb0d89bafc2d234f3cfe71e266a39b2e"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.x86_64-linux-musl-cxx11.tar.gz"
+[[cryptopp]]
+arch = "x86_64"
+git-tree-sha1 = "07e255992727a4b353f1e1ea1fe235c5177f56ff"
+os = "freebsd"
+
+    [[cryptopp.download]]
+    sha256 = "1d3a51f238ec3ca59c7058d20e40012ad8993a549b61439d96e959a218ad121b"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.x86_64-unknown-freebsd.tar.gz"
+[[cryptopp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "68dc51c3b8fa6b74eb7e125006d24c65995fb32c"
+os = "windows"
+
+    [[cryptopp.download]]
+    sha256 = "9ee80555a0a78d64763fc8389ff1c178f82250565120eaa36dd01c38a6bdcbc3"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[cryptopp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c22a46ec1fd4c212764a3526567f2de00c827564"
+os = "windows"
+
+    [[cryptopp.download]]
+    sha256 = "5f3a1269df280f8cca8f378876183fb4cb85197387b40c719f967834df2e75e1"
+    url = "https://github.com/JuliaBinaryWrappers/cryptopp_jll.jl/releases/download/cryptopp-v8.5.0+0/cryptopp.v8.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
